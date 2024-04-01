@@ -11,4 +11,4 @@
 
 ## Inference
 #### The model correctly classified the test image.
-!(Inference on cat image)[inf.png]
+![Inference on cat image](inf.png)
